@@ -63,7 +63,7 @@ function prepareAndExecute($conn, $sql, $params)
             <div id="Log_in">
                 <h2>Log In</h2>
                 <div class="role_btn">
-                    <div class="btns active">User</div>
+                    <div class="btns active">name of the user</div>
                     <div class="btns">Staff</div>
                 </div>
 
